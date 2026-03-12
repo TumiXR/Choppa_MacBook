@@ -5,5 +5,4 @@ export const navLinks = [
     { label: 'Apple Watch' },
     { label: 'Apple Vision' },
     { label: 'AirPods' },
-
     ]
